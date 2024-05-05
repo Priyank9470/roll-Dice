@@ -10,6 +10,13 @@
   font-size: 50px;
 }
 
-.roll-btn,.roll-input {
+@media (max-width: 405px) {
+  .roll-title {
+    font-size: 2.5rem !important;
+  }
+}
+
+.roll-btn,
+.roll-input {
   font-size: 2em !important;
 }
