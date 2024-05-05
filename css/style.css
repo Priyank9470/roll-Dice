@@ -1,0 +1,15 @@
+.roll-title {
+  font-family: sans-serif;
+  font-size: 3.5rem !important;
+}
+
+.result {
+  background: red;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 50px;
+}
+
+.roll-btn,.roll-input {
+  font-size: 2em !important;
+}
