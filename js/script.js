@@ -10,4 +10,7 @@ function rollDice() {
     else if (numberArray.length == limit) {
         alert("Limit reached")
     }
+    else{
+        rollDice()
+    }
 }
